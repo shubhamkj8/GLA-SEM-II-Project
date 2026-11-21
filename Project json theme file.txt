@@ -1,0 +1,52 @@
+{
+    "name": "GLA University - Green Gold Black",
+    "dataColors": [
+        "#2F6B3D",
+        "#F2C94C",
+        "#171A17",
+        "#5B8F4E",
+        "#D9AE32",
+        "#8A9B86",
+        "#3E5542",
+        "#E8DFAF",
+        "#6B756C",
+        "#B7C8B2"
+    ],
+    "background": "#F7F8F4",
+    "foreground": "#202820",
+    "tableAccent": "#2F6B3D",
+    "good": "#2F7D45",
+    "neutral": "#F2C94C",
+    "bad": "#B23A32",
+    "maximum": "#2F6B3D",
+    "center": "#F2C94C",
+    "minimum": "#E8EDE6",
+    "null": "#D9DED7",
+    "textClasses": {
+        "title": {
+            "fontFace": "Arial",
+            "fontSize": 14,
+            "color": "#202820"
+        },
+        "header": {
+            "fontFace": "Arial",
+            "fontSize": 12,
+            "color": "#2F6B3D"
+        },
+        "label": {
+            "fontFace": "Arial",
+            "fontSize": 10,
+            "color": "#343B34"
+        },
+        "callout": {
+            "fontFace": "Arial",
+            "fontSize": 28,
+            "color": "#2F6B3D"
+        },
+        "largeTitle": {
+            "fontFace": "Arial",
+            "fontSize": 24,
+            "color": "#171A17"
+        }
+    }
+}
